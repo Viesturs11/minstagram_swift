@@ -11,7 +11,7 @@ import SwiftUI
 struct Minestagram_KarlivansApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootTabView()
         }
     }
 }
